@@ -1,5 +1,5 @@
 # NLP_Tools
-NLP related Python modules for collaborative text semantic network analysis 
+Natural Language Processing (NLP)-related Python modules for collaborative text semantic network analysis 
 
 This repository contains various NLP-related functions I wrote to assist in my semantic network analysis (https://github.com/vinay918/SemanticNetworkAnalysis) research project. The most useful function that it currently contains is the ShallowProcessN1 function. Given a body of text, it performs Shallow 1-gram NLP Processing to extract the context of a body of text by:
 1. Converting string to lower case.
