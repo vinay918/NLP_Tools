@@ -8,4 +8,8 @@ This repository contains various NLP-related functions I wrote to assist in my s
 4. Part of Speech (POS) tagging.
 5. Retaining nouns and verbs.
 
+UPDATE:
+1. Now contains similarity function to compute symmetric similarity of two bodies of text (by extracting key-concepts)
+
+
 (Within the context of my project, it is used to extract context from student writing to compare the similarity of pages in a network of pages and students, and to see its implication on the behavior of students with respect to the content of pages).
